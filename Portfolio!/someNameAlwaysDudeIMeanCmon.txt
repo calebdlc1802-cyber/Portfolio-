@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<Buns>
+	<Lettuce>
+		<Pickles>
+		<Onions>
+		<Sauce>
+	</Lettuce>
+	<Tomatoes>
+		<Cheese>
+		<Meat>
+	</Tomatoes>
+</Buns>
+
